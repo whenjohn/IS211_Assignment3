@@ -5,12 +5,12 @@
 2. Make selection at Input
 
 (from terminal)
-What would you like to do?
-1 - Search for image hits
-2 - Find most popular browser
-3 - Sorted list of hits by hour of day
-4 - Quit
-Please enter 1 - 3:
+What would you like to do?<br />
+1 - Search for image hits<br />
+2 - Find most popular browser<br />
+3 - Sorted list of hits by hour of day<br />
+4 - Quit<br />
+Please enter 1 - 3:<br />
 
 # About Selections
 Selection 1 will iterate through rows for all images in column base on user
