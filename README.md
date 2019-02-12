@@ -4,7 +4,7 @@
 1. Run python assignment3.py --url "http://s3.amazonaws.com/cuny-is211-spring2015/weblog.csv"
 2. Make selection at Input
 
-(from terminal)
+(from terminal)<br />
 What would you like to do?<br />
 1 - Search for image hits<br />
 2 - Find most popular browser<br />
